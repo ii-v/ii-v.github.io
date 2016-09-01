@@ -1,8 +1,11 @@
 = Wisbygymnasiet TE16
 
+
 Här är en samling av bra-att-ha information för klass TE16 på Wisbygymnasiet. Kontakta Viktor för feedback på webbsidan.
 
+
 == Viktiga länkar:
+
 * https://www.facebook.com/groups/854286364671201/[Vår Facebookgrupp]
 * https://gotland.itslearning.com[itslearning]
 * https://dexter.gotland.se[Dexter]
