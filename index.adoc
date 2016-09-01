@@ -1,0 +1,42 @@
+= A title is important
+Viktor Hagström TE16
+
+// :toc: Makes a table of contents
+
+The preface, a _big_ *blob* of text.
+Currently it seems rather small though.
+
+
+== Smaller title here
+I haven't quite decided what to write about though.
+While I'm thinking about what to write I can show some features of asciidoc.
+You can have links; for example, here is one of my favourite https://wikipedia.org[websites].
+
+Paragraphs are easy to do. Just make a new empty line. Here you could write some `code`.
+If you want to quote someone, you can do it this way:
+
+[quote, Bob Dylan]
+____
+How many roads must a man walk down[?]
+____
+
+'''
+See that up there? That's a line.
+
+If you want to use footnotes, here's how you do it.footnote:[A footnote] 
+
+// TODO: footnote
+
+Do you have a few questions, and maybe answers? Try the Q&A mode:
+
+== Frequently asked questions
+
+[qanda]
+Do you like me?::
+    No.
+What's wrong with cats?::
+    They're inherently evil.
+What's the matter?::
+    Does it matter?
+
+Well! What about that?
