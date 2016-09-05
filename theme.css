@@ -5,10 +5,10 @@ body {
     font-family: 'Lato', sans-serif;
     font-size: 14px;
     color: #000020;
+    background-color: #fbf0f5;
     width: 600px;
     margin-left: auto;
     margin-right: auto;
-    background-color: #F8F8F8;
     border: 1px solid black;
     padding: 12px;
     text-align: left;
