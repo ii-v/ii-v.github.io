@@ -1,0 +1,9 @@
+= Lärare för TE16
+:nofooter:
+
+* Kemi och Idrott_Amalia Clausson_
+* Matematik _Ingela Gardelin_
+* Historia _Stefan Ejnarsson_
+* Teknik _Torbern Stålek_
+* Svenska _Katrin Lilja Waltå_
+* Engelska _Eva O'reilly_

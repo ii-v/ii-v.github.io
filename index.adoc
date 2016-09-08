@@ -6,6 +6,7 @@ Här är en samling av bra-att-ha information för klass TE16 på Wisbygymnasiet
 
 == Viktiga länkar:
 
+* link:lärare.html[Lista på lärare]
 * https://www.facebook.com/groups/854286364671201/[Vår Facebookgrupp] (Det är där det är meningen att vi ska diskutera läxor, men i stället diskuterar schemat och memes)
 * https://gotland.itslearning.com[itslearning]
 * https://dexter.gotland.se[Dexter]
