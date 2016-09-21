@@ -1,0 +1,19 @@
+= te16.space - att göra en hemsida
+:nofooter:
+
+http://te16.space består av flera delar. Det ni ser är endast https://sv.wikipedia.org/wiki/HTML[html] och https://sv.wikipedia.org/wiki/Cascading_Style_Sheets[css].
+Kort sagt är html vad sidan innehåller och css hur den ser ut.
+Ni kan se källkoden på sidan genom att högerklicka på den och välja "Visa sidkälla" eller liknande. 
+
+== Html
+För att jag är lat så använder jag en genväg så jag slipper skriva all html själv. Html är tidskrävande, men rätt så enkelt. För att generera html från vanlig text använder jag http://asciidoctor.org/[Asciidoc]. Hur asciidoc fungerar kan ni läsa http://asciidoctor.org/docs/[här]. För att använda asciidoc behöver ni veta hur terminalen fungerar. Jag rekommenderar google till det.
+
+== Server
+För att sidan ska vara tillgänglig utanför min dator behöver man en server. Man kan antingen hosta en egen, hyra en, eller använda något gratisalternativ. http://te16.space använder https://pages.github.com/[github pages]. Nackdelen med github pages är att man inte kan ha flexibel information, som ändras när man skriver/trycker på knappar. Simplifierat: På github pages kan man bara ha text, bilder och länkar.
+
+== Domännamn
+Domännamn kan man få gratis eller köpa billigt. Man hyr dem årsvis. Sidan där jag köpte te16.space är https://www.namecheap.com/[namecheap]. De är förhållandevis billiga.
+
+Om ni undrar något mer, använd google, eller fråga mig.
+
+// Viktor
