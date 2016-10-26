@@ -21,3 +21,4 @@ Här är en samling av bra-att-ha information för klass TE16 på Wisbygymnasiet
 Här finns några anteckningar som jag (Viktor) har skrivit:
 
 * link:2016-09-08-historia.html[2016-09-08 Historia]
+* link:idrottsprov.html[Inför idrottsprov]
